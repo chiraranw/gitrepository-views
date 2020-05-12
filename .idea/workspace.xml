@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4314f2e-72da-4567-a9ec-003846d400cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bp8kH1Zh2ndEJvXsHTfC2mtUIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.RepositoriesServiceApplication">
+    <configuration name="GitViewsCommandServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="git-views-command-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chiraranw.gitviewscommandservice.GitViewsCommandServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitViewsQueryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="git-views-query-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chiraranw.gitviewsqueryservice.GitViewsQueryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="logins-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chiraranw.loginsservice.LoginsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoriesServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="repositories-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chiraranw.repositoriesservice.RepositoriesServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4314f2e-72da-4567-a9ec-003846d400cf" name="Default Changelist" comment="" />
+      <created>1589317815144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589317815144</updated>
+      <workItem from="1589317817961" duration="327000" />
+      <workItem from="1589318154679" duration="1544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="256" key="GridCell.Tab.0.bottom" timestamp="1589321919905">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589321919905" />
+    <state width="1493" height="256" key="GridCell.Tab.0.center" timestamp="1589321919905">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589321919905" />
+    <state width="1493" height="256" key="GridCell.Tab.0.left" timestamp="1589321919905">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589321919905" />
+    <state width="1493" height="256" key="GridCell.Tab.0.right" timestamp="1589321919905">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589321919905" />
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1589321919906">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589321919906" />
+    <state width="1493" height="256" key="GridCell.Tab.1.center" timestamp="1589321919906">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589321919906" />
+    <state width="1493" height="256" key="GridCell.Tab.1.left" timestamp="1589321919906">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589321919905" />
+    <state width="1493" height="256" key="GridCell.Tab.1.right" timestamp="1589321919906">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589321919906" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1589318196678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1589318196678" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1589318185255">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1589318185255" />
+    <state x="311" y="119" key="new project wizard" timestamp="1589321784899">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="311" y="119" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1589321784899" />
+  </component>
+</project>
