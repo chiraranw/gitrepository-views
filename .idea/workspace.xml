@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4314f2e-72da-4567-a9ec-003846d400cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/control/QueryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/model/GitHubUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/query/GitHubUserProjection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/repository/GitHubUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/service/GitHubUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-views-query-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-views-query-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/GitViewsQueryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/GitViewsQueryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-views-query-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-views-query-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,22 +154,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="478" y="19" key="#git-views-query-service_[clean,compile]/0.0.1536.864@0.0.1536.864" timestamp="1589403347865" />
-    <state width="1493" height="384" key="GridCell.Tab.0.bottom" timestamp="1589403749659">
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom" timestamp="1589407227265">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="384" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
-    <state width="1493" height="384" key="GridCell.Tab.0.center" timestamp="1589403749659">
+    <state width="1493" height="281" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589407227265" />
+    <state width="1493" height="281" key="GridCell.Tab.0.center" timestamp="1589407227265">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="384" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
-    <state width="1493" height="384" key="GridCell.Tab.0.left" timestamp="1589403749659">
+    <state width="1493" height="281" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589407227265" />
+    <state width="1493" height="281" key="GridCell.Tab.0.left" timestamp="1589407227265">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="384" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
-    <state width="1493" height="384" key="GridCell.Tab.0.right" timestamp="1589403749659">
+    <state width="1493" height="281" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589407227265" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right" timestamp="1589407227265">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="384" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
+    <state width="1493" height="281" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589407227265" />
     <state width="1493" height="384" key="GridCell.Tab.1.bottom" timestamp="1589403747767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
