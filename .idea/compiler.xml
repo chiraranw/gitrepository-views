@@ -13,7 +13,7 @@
         <module name="git-views-command-service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="git-views" target="1.8" />
       <module name="git-views-command-service" target="1.8" />
       <module name="git-views-query-service" target="1.8" />
