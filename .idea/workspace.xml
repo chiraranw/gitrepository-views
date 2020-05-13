@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4314f2e-72da-4567-a9ec-003846d400cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/control/QueryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/model/GitHubUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/query/GitHubUserProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/repository/GitHubUserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/service/GitHubUserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-views-query-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git-views-query-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/GitViewsQueryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/git-views-query-service/src/main/java/com/chiraranw/gitviewsqueryservice/GitViewsQueryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-views-query-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/git-views-query-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +63,36 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Spring Boot.GitViewsCommandServiceApplication">
+  <component name="RunManager" selected="Maven.git-views-query-service [clean,compile]">
+    <configuration name="git-views-query-service [clean,compile]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/git-views-query-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="GitViewsCommandServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="git-views-command-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.chiraranw.gitviewscommandservice.GitViewsCommandServiceApplication" />
@@ -86,6 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Maven.git-views-query-service [clean,compile]" />
+      <item itemvalue="Spring Boot.GitViewsCommandServiceApplication" />
+      <item itemvalue="Spring Boot.GitViewsQueryServiceApplication" />
+      <item itemvalue="Spring Boot.LoginsServiceApplication" />
+      <item itemvalue="Spring Boot.RepositoriesServiceApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -100,7 +142,7 @@
       <workItem from="1589317817961" duration="327000" />
       <workItem from="1589318154679" duration="1544000" />
       <workItem from="1589322646325" duration="9411000" />
-      <workItem from="1589392705195" duration="479000" />
+      <workItem from="1589392705195" duration="10700000" />
     </task>
     <servers />
   </component>
@@ -108,57 +150,69 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589392795015">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589403703197">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1589392795015" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1589403703197" />
     <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589392794046">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1589392794046" />
-    <state width="1493" height="425" key="GridCell.Tab.0.bottom" timestamp="1589393167906">
+    <state x="478" y="19" key="#git-views-query-service_[clean,compile]" timestamp="1589403347865">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.0.center" timestamp="1589393167906">
+    <state x="478" y="19" key="#git-views-query-service_[clean,compile]/0.0.1536.864@0.0.1536.864" timestamp="1589403347865" />
+    <state width="1493" height="384" key="GridCell.Tab.0.bottom" timestamp="1589403749659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.0.left" timestamp="1589393167906">
+    <state width="1493" height="384" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
+    <state width="1493" height="384" key="GridCell.Tab.0.center" timestamp="1589403749659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.0.right" timestamp="1589393167906">
+    <state width="1493" height="384" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
+    <state width="1493" height="384" key="GridCell.Tab.0.left" timestamp="1589403749659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.1.bottom" timestamp="1589393167906">
+    <state width="1493" height="384" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
+    <state width="1493" height="384" key="GridCell.Tab.0.right" timestamp="1589403749659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.1.center" timestamp="1589393167906">
+    <state width="1493" height="384" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589403749659" />
+    <state width="1493" height="384" key="GridCell.Tab.1.bottom" timestamp="1589403747767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.1.left" timestamp="1589393167906">
+    <state width="1493" height="384" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589403747767" />
+    <state width="1493" height="384" key="GridCell.Tab.1.center" timestamp="1589403747767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state width="1493" height="425" key="GridCell.Tab.1.right" timestamp="1589393167906">
+    <state width="1493" height="384" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589403747767" />
+    <state width="1493" height="384" key="GridCell.Tab.1.left" timestamp="1589403747767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="425" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589393167906" />
-    <state x="277" y="75" key="SettingsEditor" timestamp="1589392892865">
+    <state width="1493" height="384" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589403747767" />
+    <state width="1493" height="384" key="GridCell.Tab.1.right" timestamp="1589403747767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1589392892865" />
+    <state width="1493" height="384" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589403747767" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1589402916492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1589402916492" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1589322647206">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1589322647206" />
+    <state x="567" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589397452577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="567" y="120" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1589397452577" />
     <state x="311" y="119" key="new project wizard" timestamp="1589321784899">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="311" y="119" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1589321784899" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1589399516351">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589399516351" />
   </component>
 </project>
